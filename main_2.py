@@ -3,8 +3,8 @@
 import random
 
 print('''
-Password Generator
-==================
+J.C. Password Generator 1.0
+===========================
 ''')
 
 chars = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@£$%^&*().,?0123456789'
